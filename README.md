@@ -1,0 +1,4 @@
+KataDigitalWordPress
+====================
+
+New Theme
