@@ -1,0 +1,1 @@
+[02-Dec-2014 17:09:23 UTC] PHP Fatal error:  Class 'TGM_Bulk_Installer' not found in /home/ubuntu/workspace/wp-content/themes/responsive/core/includes/classes/class-tgm-plugin-activation.php on line 1558
