@@ -99,10 +99,15 @@ if ( !defined( 'ABSPATH' ) ) {
 				'menu_class'     => 'sub-header-menu',
 				'theme_location' => 'sub-header-menu'
 			) );
-		} ?>
+		} 
+		?>
+		
+		
+		
+		
 
 		<?php responsive_header_bottom(); // after header content hook ?>
-
+		
 	</div><!-- end of #header -->
 <?php responsive_header_end(); // after header container hook ?>
 
